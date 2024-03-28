@@ -5,7 +5,7 @@ What I learned about this is that you can literally use lines of code to define 
 Dimensions and this in turn can be used for 3D modeling. An example of this would be making a model 
 of a product as a visual reference or guide. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/KQxmn_wUkCY)
 
 # Development Environment
 
