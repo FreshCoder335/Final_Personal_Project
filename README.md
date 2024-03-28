@@ -11,6 +11,8 @@ of a product as a visual reference or guide.
 
 Blender
 
+Visual Studio Code
+
 Python
 
 # Useful Websites
